@@ -1,32 +1,21 @@
-<div align="center">
-
 # Yassine Chouk
 
-[LinkedIn](#) · [Resume](#)
+Embedded systems & robotics student — motor control, edge AI, and real-time control on constrained hardware.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/yassine-chouk-8ba806312/) · [yassine.chouk@insat.ucar.tn](mailto:yassine.chouk@insat.ucar.tn)
 
 ---
 
-I build embedded control and edge AI systems — from DSP motor drives to on-device inference — mostly in C/C++ and Python.
+2nd-year engineering student at INSAT (Industrial IT & Automation). Looking for internships and opportunities to learn, build, and grow.
 
-Currently an engineering student at INSAT (Industrial IT & Automation), most recently working on real-time motor control at Qehna LAB, ENIT.
+## Projects
 
-## Featured Projects
+- **[DSP Scalar V/f Motor Control](https://github.com/yassinechouk/c2000-vf-motor-control)** — Three-phase induction motor control on a TI C2000 DSP: synchronized ePWM, third-harmonic injection, dead-time management, tunable 1–20 kHz carrier.
+- **Trackify** — Fall-detection wearable for Alzheimer's patients on a dual-core ESP32-S3. Trained the classifier and cross-compiled it to C for real-time on-device inference.
+- **[AQUA GENIUS](https://github.com/yassinechouk/AQUA_GENIUS_project)** — Autonomous irrigation system with edge AI on ESP32-S3: multi-sensor acquisition, on-device inference, auto/manual pump control.
+- **[Maze-Solving Robot](https://github.com/yassinechouk/maze-robot-drone-sim)** — A* path planning with Euler-spiral trajectory smoothing, ROS2 + Gazebo simulation.
+- **RC Quadcopter** — Custom FPV build: frame, ESCs, flight controller, Betaflight PID tuning.
 
-**DSP Scalar V/f Motor Control**
-Open-loop V/f control for a three-phase induction motor on a TI C2000 DSP. The interesting part was getting NCO-based sine synthesis and dead-time management right enough to hold a clean 1 kHz–20 kHz carrier range without shoot-through — validated on scope, not just in theory.
+## Stack
 
-**Trackify**
-A fall-detection wearable for Alzheimer's patients on a dual-core ESP32-S3. I owned the ML side end-to-end: training a classifier, cross-compiling it to C, and getting it running as real-time inference on one core while GPS/GSM ran on the other.
-
-**RC Quadcopter**
-Built and tuned a custom FPV quadcopter from raw parts — frame, ESCs, flight controller — through Betaflight PID tuning to get it flying clean instead of just flying.
-
-## Currently
-
-Real-time control systems, robotics, and the process of taking a model from training to running on constrained hardware.
-
-## Contact
-
-yassine.chouk@insat.ucar.tn
+`C` `C++` `Python` · `ROS2` `Gazebo` `SLAM` · `ESP32` `Raspberry Pi` `TI C2000` · `UART` `I2C` `SPI` · `Machine Learning` `TinyML` · `Git` `Linux`
