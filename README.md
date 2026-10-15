@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=40&lines=Embedded+Systems+Engineering+Student;Bare-Metal+C+%7C+FreeRTOS+%7C+Firmware;Low-Level+Software+%7C+Real-Time+Systems" alt="Typing animation"/>
 
-[**Portfolio**](https://yassinechouk.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/yassine-chouk-8ba806312/) · [Email](mailto:yassine.chouk@insat.ucar.tn) · [Repositories](https://github.com/yassinechouk?tab=repositories)
+[Portfolio](https://yassinechouk.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/yassine-chouk-8ba806312/) · [Email](mailto:yassine.chouk@insat.ucar.tn) · [Repositories](https://github.com/yassinechouk?tab=repositories)
 
 </div>
 
@@ -16,13 +16,7 @@ Engineering student at **INSAT**, passionate about low-level software, embedded 
 
 I work across the firmware stack, from MCU peripherals and bare-metal drivers to RTOS instrumentation, motor control, and hardware-level validation.
 
-### `02 — Portfolio`
-
-Explore my engineering projects, technical skills, and embedded systems work on my personal portfolio.
-
-**[Visit My Portfolio →](https://yassinechouk.github.io/portfolio/)**
-
-### `03 — Technical Stack`
+### `02 — Technical Stack`
 
 **Languages & Tools**
 
@@ -40,7 +34,7 @@ Explore my engineering projects, technical skills, and embedded systems work on 
 
 `UART` · `SPI` · `I²C` · `CAN` · `TCP/IP` · `Hardware-in-the-Loop` · `Oscilloscope` · `Logic Analyzer`
 
-### `04 — Featured Engineering Projects`
+### `03 — Featured Engineering Projects`
 
 - **[FreeRTOS Inspector](https://github.com/yassinechouk/Freertos-inspector)** — RTOS timing analysis, task monitoring, and hardware-in-the-loop validation.
 - **[STM32 Dual-Slot OTA Bootloader](https://github.com/yassinechouk/BOOTLOADER_OTA)** — Bare-metal firmware updates, image verification, and automatic rollback.
@@ -53,10 +47,6 @@ Explore my engineering projects, technical skills, and embedded systems work on 
 <img src="https://github-readme-stats.vercel.app/api?username=yassinechouk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" height="150" alt="GitHub statistics"/>
 
 <br/>
-
-<a href="https://yassinechouk.github.io/portfolio/"><strong>Explore my Portfolio</strong></a>
-
-<br/><br/>
 
 <sub>Designing reliable firmware. Understanding hardware. Measuring real-time behavior.</sub>
 
