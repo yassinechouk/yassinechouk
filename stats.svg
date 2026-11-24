@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="215" viewBox="0 0 400 215" role="img" aria-label="GitHub stats">
+<style>
+.t{font:600 18px 'Segoe UI',Ubuntu,sans-serif;fill:#00D9FF}
+.l{font:600 14px 'Segoe UI',Ubuntu,sans-serif;fill:#C9D1D9}
+.v{font:600 14px 'Segoe UI',Ubuntu,sans-serif;fill:#C9D1D9}
+.u{font:11px 'Segoe UI',Ubuntu,sans-serif;fill:#6E7681}
+</style>
+<rect x="0.5" y="0.5" width="399" height="214" rx="6" fill="#0D1117" stroke="#0D1117"/>
+<text x="25" y="35" class="t">Yassine Chouk's GitHub Stats</text>
+<text x="25" y="70" class="l">Total Stars Earned:</text><text x="260" y="70" class="v">43</text><text x="25" y="95" class="l">Total Commits (last year):</text><text x="260" y="95" class="v">283</text><text x="25" y="120" class="l">Total PRs:</text><text x="260" y="120" class="v">7</text><text x="25" y="145" class="l">Total Issues:</text><text x="260" y="145" class="v">0</text><text x="25" y="170" class="l">Contributed to:</text><text x="260" y="170" class="v">3</text>
+<text x="25" y="203" class="u">Updated 2026-11-24</text>
+</svg>

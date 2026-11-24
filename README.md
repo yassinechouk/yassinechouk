@@ -52,7 +52,7 @@ I work across the whole stack: MCU peripherals and bare-metal drivers, RTOS inst
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yassinechouk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" height="150" alt="GitHub statistics"/>
+<img src="stats.svg" width="400" alt="GitHub statistics"/>
 
 <br/>
 
